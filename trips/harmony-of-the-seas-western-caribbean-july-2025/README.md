@@ -19,3 +19,6 @@ This is the central planning hub for the family's 8-night Western Caribbean crui
 *   **[Perfect Day at CocoCay](./excursions/cococay_beach_options.md):** Beach and waterpark options.
 *   **[Costa Maya, Mexico](./excursions/costa_maya_excursion_options.md):** Mayan ruins, beach breaks, and other activities.
 *   **[Nassau, Bahamas](./excursions/nassau_excursion_options.md):** Resort passes, island encounters, and time management.
+
+
+_Last updated on July 17, 2025 at 07:18 PM_
